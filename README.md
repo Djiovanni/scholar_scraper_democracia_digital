@@ -1,1 +1,2 @@
 # scholar_scraper_democracia_digital
+Este repositório tem como objetivo divulgar o Script desenvolvido dentro do Grupo de pesquisa Pesquisa sobre Comunicação Política e Democracia Digital (COMPADD - UFPR), o script de webscraping foi desenvolvido em linguagem python, para a coleta de artigos do google scholar, que tenham como objeto de estudo fazer uma cientometria dos artigos sobre Democrácia Digital no Brasil. O repositório tambem é composto peo módulo para a utilização no Google Crhome, alem do script em sí.
